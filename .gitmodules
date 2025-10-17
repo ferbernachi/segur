@@ -1,0 +1,3 @@
+[submodule "stegosuite"]
+	path = stegosuite
+	url = https://github.com/osde8info/stegosuite.git
